@@ -21,7 +21,14 @@ const personIconPlaceholder = (
 const aboutUsData: Feature[] = [
   {
     id: 1,
-    icon: personIconPlaceholder,
+    icon: (
+      <Image
+        width="200"
+        height="200"
+        src="/images/Angelica_Ellison.jpeg"
+        alt="Angelica Ellison"
+      />
+    ),
     title: "Angelica Ellison",
     paragraph: "CMO of Marketing",
   },
@@ -29,8 +36,8 @@ const aboutUsData: Feature[] = [
     id: 2,
     icon: (
       <Image
-        width="100"
-        height="100"
+        width="200"
+        height="200"
         src="/images/Sita_Robinson.jpeg"
         alt="Sita Robinson"
       />
@@ -48,8 +55,8 @@ const aboutUsData: Feature[] = [
     id: 4,
     icon: (
       <Image
-        width="100"
-        height="100"
+        width="200"
+        height="200"
         src="/images/Alexandria_Mccary.jpeg"
         alt="Alexandria McCary"
       />
@@ -59,7 +66,14 @@ const aboutUsData: Feature[] = [
   },
   {
     id: 5,
-    icon: personIconPlaceholder,
+    icon: (
+      <Image
+        width="200"
+        height="200"
+        src="/images/Desiree_Mccormick.jpeg"
+        alt="Desiree McCormick"
+      />
+    ),
     title: "Desiree McCormick",
     paragraph: "COO of Project Management & Operations",
   },
