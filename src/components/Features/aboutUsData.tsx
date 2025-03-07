@@ -47,7 +47,14 @@ const aboutUsData: Feature[] = [
   },
   {
     id: 3,
-    icon: personIconPlaceholder,
+    icon: (
+      <Image
+        width="200"
+        height="200"
+        src="/images/Crystal_Castillo.jpeg"
+        alt="Crystal Castillo"
+      />
+    ),
     title: "Crystal Castillo",
     paragraph: "CFO of Financial Strategy & Funding",
   },
