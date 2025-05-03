@@ -14,7 +14,7 @@ const featuresData: Feature[] = [
     ),
     title: "Project Management",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Streamline workflows, enhance collaboration, and deliver projects on time with powerful management solutions.",
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const featuresData: Feature[] = [
     ),
     title: "Cybersecurity & Compliance",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Protect your business with cutting-edge security strategies and ensure regulatory compliance effortlessly.",
   },
   {
     id: 3,
@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Web Development & Design",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Scalable, high-performance web development and design-built with clean code, intuitive UX, and modern frameworks. Optimized for speed and future growth.",
   },
   {
     id: 4,
@@ -86,7 +86,7 @@ const featuresData: Feature[] = [
     ),
     title: "Marketing Management",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Drive growth with data-driven campaigns, brand strategy, and customer engagement tactics that make an impact.",
   },
   {
     id: 5,
@@ -117,7 +117,7 @@ const featuresData: Feature[] = [
     ),
     title: "AI & Automation",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Optimize efficiency and innovation with AI-powered tools that transform operations and elevate performance.",
   },
   {
     id: 6,
@@ -139,7 +139,7 @@ const featuresData: Feature[] = [
     ),
     title: "Financial Strategy & Funding",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Secure smart financial solutions, attract investors, and scale your business with expert funding strategies.",
   },
   {
     id: 7,
@@ -160,7 +160,7 @@ const featuresData: Feature[] = [
     ),
     title: "Enterprise Innovation",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Driving transformation through emerging tech, agile strategy, and scalable solutions. Empowering organizations with data, automation, and intelligent systems.",
   },
 ];
 export default featuresData;
