@@ -1,7 +1,7 @@
 export const SocialBox = () => {
   const facebook = (
     <a
-      href="/"
+      href="https://www.facebook.com/ascadiaconsulting/"
       aria-label="social-link"
       target="_blank"
       rel="noopener noreferrer"
@@ -22,34 +22,9 @@ export const SocialBox = () => {
     </a>
   );
 
-  const twitter = (
-    <a
-      href="/"
-      aria-label="social-link"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-    >
-      <svg
-        width="18"
-        height="18"
-        viewBox="0 0 22 22"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          fillRule="evenodd"
-          clipRule="evenodd"
-          d="M13.9831 19.25L9.82094 13.3176L4.61058 19.25H2.40625L8.843 11.9233L2.40625 2.75H8.06572L11.9884 8.34127L16.9034 2.75H19.1077L12.9697 9.73737L19.6425 19.25H13.9831ZM16.4378 17.5775H14.9538L5.56249 4.42252H7.04674L10.808 9.6899L11.4584 10.6039L16.4378 17.5775Z"
-          fill="currentColor"
-        />
-      </svg>
-    </a>
-  );
-
   const linkedin = (
     <a
-      href="/"
+      href="https://www.linkedin.com/company/ascadia-consulting"
       aria-label="social-link"
       target="_blank"
       rel="noopener noreferrer"
@@ -64,7 +39,6 @@ export const SocialBox = () => {
   return (
     <div className="flex items-center">
       {facebook}
-      {twitter}
       {linkedin}
     </div>
   );
